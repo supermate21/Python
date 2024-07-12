@@ -1,0 +1,1 @@
+# la tecla gato (#) es para incertar un comentario en un programa.
