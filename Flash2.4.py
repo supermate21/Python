@@ -24,3 +24,6 @@ print (f'El {figura} y el {figura2} son figuras geometricas')
 
 
 # aspectos importantes: colocar la f anted de las comillas y no dejar espacio entre la f y la primer comilla
+
+#este ejercicio lo saque del vscode de mi computadora
+
